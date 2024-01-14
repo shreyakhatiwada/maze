@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Pygame
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
